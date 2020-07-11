@@ -1,0 +1,31 @@
+.row-one{
+	background-color: grey;
+}
+
+.row-one{
+	border-style: inset;
+}
+.row-one h1{
+	float: right;
+	color: #fff;
+}
+
+.row-two{
+	background-color: lightgrey;
+	border-style: outset;
+}
+
+
+.row-two-end{
+	background-color: orange;
+	border-style: outset;
+}
+
+.center-signs{
+	text-align: center;
+	border-style: outset;
+}
+
+.row-two-end h1{
+	color: #fff;
+}
