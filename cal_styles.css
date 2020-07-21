@@ -1,8 +1,5 @@
 .row-one{
 	background-color: grey;
-}
-
-.row-one{
 	border-style: inset;
 }
 .row-one h1{
@@ -10,15 +7,29 @@
 	color: #fff;
 }
 
+
+
 .row-two{
 	background-color: lightgrey;
 	border-style: outset;
+	cursor: pointer;
+}
+
+.row-two:hover{
+	background-color: rgb(129, 123, 123);
+	color: white;
 }
 
 
 .row-two-end{
 	background-color: orange;
 	border-style: outset;
+	cursor: pointer;
+}
+
+.row-two-end:hover{
+	background-color: rgb(190, 143, 55);
+	color: black;
 }
 
 .center-signs{
